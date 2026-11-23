@@ -79,6 +79,6 @@ Industrial B2B procurement differs sharply from consumer retail: visitors browse
 
 <div align="center">
 
-[Visit Live Storefront (`shakkel.store`)](https://shakkel.store/) &nbsp;|&nbsp; [Shakkel Learning Hub](https://learn.shakkel.store/) &nbsp;|&nbsp; [Portfolio](https://abdulqader-alshihabi.github.io/) &nbsp;|&nbsp; Built by **Abdulqader Alshihabi**
+[Visit Live Storefront (`shakkel.store`)](https://shakkel.store/) &nbsp;|&nbsp; [Shakkel Learning Hub](https://learn.shakkel.store/) &nbsp;|&nbsp; [Portfolio](https://abdulqader-alshihabi.github.io/) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/abdulqader-alshihabi-859b19260/) &nbsp;|&nbsp; Built by **Abdulqader Alshihabi**
 
 </div>
